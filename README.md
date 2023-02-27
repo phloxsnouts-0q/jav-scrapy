@@ -67,7 +67,7 @@ $ jav -x http://127.0.0.1:8087
 
 在项目文件夹下的 `jav.js` 文件中更换如下行的地址（大致在第18行），并保存即可：
 ```javascript
-const baseUrl = 'https://www.buscdn.life/';
+const baseUrl = 'https://www.javbus.com/';
 ```
 
 ## Contributors
